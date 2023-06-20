@@ -18,6 +18,8 @@ import lombok.Getter;
 import lombok.Setter;
 dafsf
 fadsfas
+受dfafs
+klljk
 
 /**
  * <p>
@@ -60,7 +62,7 @@ public class DeptCategory implements Serializable {
       private Integer type;
     new yuancheng;
 
-
+    new fsdaf
 
 
 
