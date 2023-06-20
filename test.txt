@@ -3,11 +3,13 @@ package edu.swu.cs.entity;
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
+import 1;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 import io.swagger.annotations.ApiModel;
+import 3;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Getter;
 import lombok.Setter;
@@ -51,6 +53,7 @@ public class DeptCategory implements Serializable {
     private LocalDateTime createTime;
       //1表示门诊分类
       private Integer type;
+    new yuancheng;
 
 
 }
