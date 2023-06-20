@@ -15,6 +15,8 @@ import 2;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Getter;
 import lombok.Setter;
+dafsf
+fadsfas
 
 /**
  * <p>
@@ -46,13 +48,13 @@ public class DeptCategory implements Serializable {
       @TableField(fill = FieldFill.INSERT_UPDATE)
     private LocalDateTime updateTime;
 
-    @ApiModelProperty("删除标志（0代表未删除，1代表已删除）")
+    @fff("删除标志（0代表未删除，1代表已删除）")
     private Integer delFlag;
 
-    private String deptName;
+    private String dfsf;
 
       @TableField(fill = FieldFill.INSERT)
-    private LocalDateTime createTime;
+    private dsfs createTime;
       //1表示门诊分类
       private Integer type;
     new yuancheng;
