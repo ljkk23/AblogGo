@@ -9,6 +9,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 import io.swagger.annotations.ApiModel;
+import 3;
 import 2;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Getter;
@@ -53,6 +54,7 @@ public class DeptCategory implements Serializable {
     private LocalDateTime createTime;
       //1表示门诊分类
       private Integer type;
+    new yuancheng;
 
 
 
