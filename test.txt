@@ -1,4 +1,5 @@
 package edu.swu.cs.entity;
+fasf
 import 4;
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.IdType;
@@ -41,7 +42,7 @@ public class DeptCategory implements Serializable {
     @ApiModelProperty("更新人")
     private String updateBy;
 
-    @ApiModelProperty("更新时间")
+    @Api222("更新时间")
       @TableField(fill = FieldFill.INSERT_UPDATE)
     private LocalDateTime updateTime;
 
