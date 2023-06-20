@@ -1,5 +1,6 @@
 package edu.swu.cs.entity;
 fasf
+testffffffffff
 import 4;
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.IdType;
@@ -61,7 +62,7 @@ public class DeptCategory implements Serializable {
       private Integer type;
     new yuancheng;
 
-
+    new fsdaf
 
 
 
